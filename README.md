@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=300&text=Hello%20World!&desc=Kim%20Seung%20Hwan&fontColor=ffffff&color=40:a074bd,60:7f7ac0,20:d87f92&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=300&text=Hello%20World!&desc=Kim%20Seung%20Hwan&fontColor=ffffff&color=40:a074bd,60:7f7ac0,20:d87f92&animation=fadeIn&)
 <br> <br>
 <div style="color: red">
   <h1 align="center">"Work hard for your goal."</h1>
@@ -15,7 +15,7 @@
   <hr>
 </div>
 <div>
-<h3 align="center">🛠️Stack</h3>
+<h2 align="center">🛠️Stack</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -38,9 +38,15 @@
   
 </div>
 <h2 align="center">📊Stats</h2>
-<div>
+<div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silofn523&show_icons=true&theme=transparent&title_color=a074bd&text_color=7f7ac0&icon_color=d87f92)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silofn523&layout=compact&title_color=a074bd&text_color=7f7ac0&icon_color=d87f92)
 
+<h2>🎮Baekjun</h2>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imnews351)](https://solved.ac/imnews351/)
+
 </div>
+
+
