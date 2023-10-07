@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=300&text=Hello%20World!&desc=Kim%20Seung%20Hwan&fontColor=ffffff&color=40:a074bd,60:7f7ac0,20:d87f92&animation=fadeIn&)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=300&text=Hello%20World!&desc=Kim%20Seung%20Hwan&fontColor=ffffff&color=40:a074bd,60:7f7ac0,20:d87f92&animation=scaleIn)
 <br> <br>
 <div style="color: red">
   <h1 align="center">"Work hard for your goal."</h1>
