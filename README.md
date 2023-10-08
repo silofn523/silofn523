@@ -38,7 +38,7 @@
 
 <div align="center">
   <h2>✨Contact</h2>
-  <a href="https://https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+  <a href="https://discord.com/channels/@silofn523" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
   <a href="https://www.instagram.com/hhhnhnnhhnn__/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   
 </div>
