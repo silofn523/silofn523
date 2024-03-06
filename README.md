@@ -64,9 +64,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silofn523&show_icons=true&theme=transparent&title_color=a074bd&text_color=7f7ac0&icon_color=d87f92)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silofn523&layout=compact&title_color=a074bd&text_color=7f7ac0&icon_color=d87f92)
 
-<h2>🎮Baekjun</h2>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imnews351)](https://solved.ac/imnews351/)
 
 </div>
 
