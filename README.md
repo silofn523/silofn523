@@ -10,7 +10,7 @@
                <li>🏫 the school where I'm attending : GBSW</li>
                <li>🧨 My desired job : SoftWare developer</li>
                <li>✨ My hobby : Watch animation</li>
-               <li>🌱 I’m currently learning : Nest, Java, DB</li>
+               <li>🌱 I’m currently learning : Nest, SpringBoot</li>
           </ul>
   <hr>
 </div>
