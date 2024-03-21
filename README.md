@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/intellij-0e0a42?style=flat-square&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/VsCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white"/>
 </div>
 
 <div align="center">
