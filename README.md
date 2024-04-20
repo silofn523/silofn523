@@ -5,12 +5,11 @@
 
   <ul>
     <h2 align="center">About me</h2>
-    <h3 align="center">"I am a 17-year-old student attending Gyeongbuk Software High School and studying backend."</h3>
+    <h3 align="center">"I am a 18-year-old student attending Gyeongbuk Software High School and studying backend."</h3>
                <li>📫 Email : silofn523@gmail.com</li>
                <li>🏫 the school where I'm attending : GBSW</li>
                <li>🧨 My desired job : SoftWare developer</li>
-               <li>✨ My hobby : </li>
-               <li>🌱 I’m currently learning : Nest, SpringBoot</li>
+               <li>🌱 I’m currently learning : Back-end</li>
           </ul>
   <hr>
 </div>
