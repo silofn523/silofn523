@@ -54,7 +54,7 @@
   <a href="https://discord.com/channels/@silofn523" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
   <a href="https://www.instagram.com/hhhnhnnhhnn__/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="https://balanced-waxflower-a79.notion.site/Portfolio-f64030d90dc342239a6fd121eeaaeb4b"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-  <a href="https://velog.io/@silofn523/posts"><img src="https://img.shields.io/badge/velog-339933?style=flat-square&logo=velog&logoColor=white"/></a>
+  <a href="https://velog.io/@silofn523/posts"><img src="https://img.shields.io/badge/velog-6DB33F?style=flat-square&logo=velog&logoColor=white"/></a>
   
 </div>
 <h2 align="center">📊Stats</h2>
