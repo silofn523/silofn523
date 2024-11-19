@@ -1,4 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=300&text=Hello%20World!&desc=Kim%20Seung%20Hwan&fontColor=ffffff&color=40:a074bd,60:7f7ac0,20:d87f92&animation=scaleIn)
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/silofn523"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <br> <br>
 <div style="color: red">
   <h1 align="center">"Work hard for your goal."</h1>
@@ -55,7 +62,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silofn523&show_icons=true&theme=transparent&title_color=a074bd&text_color=7f7ac0&icon_color=d87f92)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silofn523&layout=compact&title_color=a074bd&text_color=7f7ac0&icon_color=d87f92)
 
-
+  
 </div>
 
 
