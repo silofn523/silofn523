@@ -6,10 +6,12 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
   <p><em>“Building the future, one line of code at a time!”</em></p>
 </div>
+
 <br> <br>
 <div align="center" style="color: red;">
   <h1>"Work hard for your goal."</h1>
 </div>
+
 
 <h2 align="center">🙋‍♂️ About Me</h2>
 <div align="center">
@@ -67,9 +69,13 @@
 
 <h2 align="center">📊 Stats</h2>
 <div align="center">
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=silofn523&style=for-the-badge&color=brightgreen" alt="Profile Views" />
   
 ![GitHub Followers](https://img.shields.io/github/followers/silofn523?style=for-the-badge&logo=github&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/silofn523?style=for-the-badge&logo=github&color=yellow)
+</div>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silofn523&show_icons=true&theme=transparent&title_color=a074bd&text_color=7f7ac0&icon_color=d87f92)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silofn523&layout=compact&title_color=a074bd&text_color=7f7ac0&icon_color=d87f92)
@@ -77,6 +83,7 @@
 </div>
 
 <h2 align="center">🎉 Fun Activity</h2>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=silofn523&theme=react-dark" alt="Activity Graph" />
 </div>
