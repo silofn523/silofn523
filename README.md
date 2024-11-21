@@ -11,7 +11,6 @@
   <h1>"Work hard for your goal."</h1>
 </div>
 
----
 
 <h2 align="center">🙋‍♂️ About Me</h2>
 <div align="center">
@@ -24,7 +23,6 @@
   </ul>
 </div>
 
----
 
 <h2 align="center">🌈 My Stack</h2>
 <div align="center">
@@ -38,7 +36,6 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&style=flat-rounded"/>
 </div>
 
----
 
 <h2 align="center">🔒 Stack Plan</h2>
 <div align="center">
@@ -50,7 +47,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&style=flat-rounded"/>
 </div>
 
----
 
 <h2 align="center">🛠️ Tools</h2>
 <div align="center">
@@ -60,7 +56,6 @@
   <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white&style=flat-rounded"/>
 </div>
 
----
 
 <h2 align="center">✨ Contact</h2>
 <div align="center">
@@ -70,7 +65,6 @@
   <a href="https://velog.io/@silofn523/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white&style=flat-rounded"/></a>
 </div>
 
----
 
 <h2 align="center">📊 Stats</h2>
 <div align="center">
