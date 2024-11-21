@@ -87,6 +87,10 @@
 <h2 align="center">🎉 Fun Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silofn523&theme=react-dark" alt="Activity Graph" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=silofn523&bg_color=0D1117&color=D3D3D3&line=FFFFFF&point=FFD700&area=true&hide_border=true" 
+    alt="Activity Graph" 
+    width="80%" 
+  />
 </div>
 
