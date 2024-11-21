@@ -7,10 +7,11 @@
   <p><em>“Building the future, one line of code at a time!”</em></p>
 </div>
 
-<br>
+<br><br>
 
 
 <h2 align="center">"18 year old developer who is constantly working hard"</h2>
+<br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/870fb134-850a-49da-b398-b2330dfd7b62" width="10%" />
   <br>
@@ -28,7 +29,7 @@
 <h2></h2>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/8b62a6ad-0fc9-4687-bf88-cf9d4d4a0012" width="10%" />
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white&style=flat-rounded"/> <br>
@@ -43,7 +44,7 @@
 <h2></h2>
 <div align="center">
    <img src="https://github.com/user-attachments/assets/1c08c325-c4bc-4ca7-9d1b-1a6e9ec28a15" width="10%" />
-<br>
+<br><br>
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&style=flat-rounded"/>
@@ -56,7 +57,7 @@
 <h2></h2>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5cf92462-68d3-4bd6-81a1-0caf715a4c04" width="10%" />
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/IntelliJ-0e0a42?style=for-the-badge&logo=intellijidea&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=codecrafters&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=flat-rounded"/>
@@ -68,7 +69,7 @@
 <h2></h2>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/96e39907-a896-4426-96d9-39b935d9411d" width="10%" />
-  <br>
+  <br><br>
   <a href="https://discord.com/channels/@silofn523" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=flat-rounded"/></a>
   <a href="https://www.instagram.com/hhhnhnnhhnn__/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-rounded"/></a>
   <a href="https://balanced-waxflower-a79.notion.site/Portfolio-f64030d90dc342239a6fd121eeaaeb4b" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&style=flat-rounded"/></a>
@@ -79,7 +80,7 @@
 <h2></h2>
 <div align="center">
 <img src="https://github.com/user-attachments/assets/f8251ab3-8287-40f8-a6d1-16b8669df7ff" width="10%" />
-  <br>
+  <br><br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=silofn523&style=for-the-badge&color=brightgreen" alt="Profile Views" />
   
