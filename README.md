@@ -24,9 +24,10 @@
   </ul>
 </div>
 
-
-<h2 align="center">🚀 Tech Stack</h2>
+<hr>
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/8b62a6ad-0fc9-4687-bf88-cf9d4d4a0012" width="10%" />
+  <br>
   <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white&style=flat-rounded"/> <br>
@@ -36,7 +37,7 @@
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&style=flat-rounded"/>
 </div>
-
+<br>
 
 <h2 align="center">📘 Learning Goals</h2>
 <div align="center">
@@ -47,19 +48,24 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white&style=flat-rounded"/>
 </div>
+<br>
 
-
-<h2 align="center">🛠️ Tools I Use</h2>
+<hr>
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/5cf92462-68d3-4bd6-81a1-0caf715a4c04" width="10%" />
+  <br>
   <img src="https://img.shields.io/badge/IntelliJ-0e0a42?style=for-the-badge&logo=intellijidea&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=codecrafters&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white&style=flat-rounded"/>
 </div>
+<br>
 
 
-<h2 align="center">✨ Contact</h2>
+<hr>
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/96e39907-a896-4426-96d9-39b935d9411d" width="10%" />
+  <br>
   <a href="https://discord.com/channels/@silofn523" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=flat-rounded"/></a>
   <a href="https://www.instagram.com/hhhnhnnhhnn__/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-rounded"/></a>
   <a href="https://balanced-waxflower-a79.notion.site/Portfolio-f64030d90dc342239a6fd121eeaaeb4b" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&style=flat-rounded"/></a>
@@ -67,9 +73,10 @@
 </div>
 
 
-<h2 align="center">📊 Stats</h2>
+<hr>
 <div align="center">
-
+<img src="https://github.com/user-attachments/assets/f8251ab3-8287-40f8-a6d1-16b8669df7ff" width="10%" />
+  <br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=silofn523&style=for-the-badge&color=brightgreen" alt="Profile Views" />
   
@@ -83,10 +90,11 @@
 
 
 </div>
-
-<h2 align="center">🎉 Fun Activity</h2>
+<hr>
 
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/4aa52fd2-4f65-4df0-afe1-e1ebc3b26aba" width="10%" />
+  <br>
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=silofn523&bg_color=0D1117&color=D3D3D3&line=FFFFFF&point=FFD700&area=true&hide_border=true" 
     alt="Activity Graph" 
