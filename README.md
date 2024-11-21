@@ -13,15 +13,18 @@
 <h2></h2>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/870fb134-850a-49da-b398-b2330dfd7b62" width="10%" />
-<br>
-  <p>"I am an 18-year-old student attending Gyeongbuk Software High School and studying backend development."</p>
-  <ul style="list-style: none; text-align: left; display: inline-block;">
-    <li>📫 <strong>Email</strong>: silofn523@gmail.com</li>
-    <li>🏫 <strong>School</strong>: Gyeongbuk Software High School (GBSW)</li>
-    <li>🧨 <strong>Desired Job</strong>: Software Developer</li>
-    <li>🌱 <strong>Currently Learning</strong>: Back-end Development</li>
-  </ul>
+  <br>
+  <pre style="background-color: #f5f5f5; padding: 15px; border-radius: 5px; width: 80%; text-align: left;">
+    <code>
+"I am an 18-year-old student attending Gyeongbuk Software High School and studying backend development."
+- 📫 Email: silofn523@gmail.com
+- 🏫 School: Gyeongbuk Software High School (GBSW)
+- 🧨 Desired Job: Software Developer
+- 🌱 Currently Learning: Back-end Development
+    </code>
+  </pre>
 </div>
+
 
 <h2></h2>
 <div align="center">
@@ -97,9 +100,11 @@
   <img src="https://github.com/user-attachments/assets/4aa52fd2-4f65-4df0-afe1-e1ebc3b26aba" width="10%" />
   <br>
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=silofn523&bg_color=0D1117&color=D3D3D3&line=FFFFFF&point=FFD700&area=true&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=silofn523&bg_color=0D1117&color=D3D3D3&line=4169E1&point=FFFFFF&area=true&hide_border=true" 
     alt="Activity Graph" 
     width="80%" 
   />
+
+
 </div>
 
