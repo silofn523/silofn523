@@ -7,14 +7,13 @@
   <p><em>“Building the future, one line of code at a time!”</em></p>
 </div>
 
-<br> <br>
-<div align="center" style="color: red;">
-  <h1>"Work hard for your goal."</h1>
-</div>
+<br>
 
 
-<h2 align="center">🙋‍♂️ About Me</h2>
+<hr>
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/870fb134-850a-49da-b398-b2330dfd7b62" width="10%" />
+<br>
   <p>"I am an 18-year-old student attending Gyeongbuk Software High School and studying backend development."</p>
   <ul style="list-style: none; text-align: left; display: inline-block;">
     <li>📫 <strong>Email</strong>: silofn523@gmail.com</li>
@@ -39,8 +38,10 @@
 </div>
 <br>
 
-<h2 align="center">📘 Learning Goals</h2>
+<hr>
 <div align="center">
+   <img src="https://github.com/user-attachments/assets/1c08c325-c4bc-4ca7-9d1b-1a6e9ec28a15" width="10%" />
+<br>
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&style=flat-rounded"/>
