@@ -62,7 +62,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5cf92462-68d3-4bd6-81a1-0caf715a4c04" width="10%" />
   <br>
-  <code>🛠️Stack</code>
+  <code>⚙️Tools</code>
   <br><br>
   <img src="https://img.shields.io/badge/IntelliJ-0e0a42?style=for-the-badge&logo=intellijidea&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=codecrafters&logoColor=white&style=flat-rounded"/>
@@ -76,7 +76,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/96e39907-a896-4426-96d9-39b935d9411d" width="10%" />
   <br>
-  <code>⚙️Tools</code>
+  <code>📞contact</code>
   <br><br>
   <a href="https://discord.com/channels/@silofn523" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=flat-rounded"/></a>
   <a href="https://www.instagram.com/hhhnhnnhhnn__/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-rounded"/></a>
