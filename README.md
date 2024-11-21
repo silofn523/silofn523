@@ -51,7 +51,7 @@
 <h2 align="center">🛠️ Tools</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/IntelliJ-0e0a42?style=for-the-badge&logo=intellijidea&logoColor=white&style=flat-rounded"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&style=flat-rounded"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=codecrafters&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white&style=flat-rounded"/>
 </div>
