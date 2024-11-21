@@ -77,7 +77,8 @@
 ![GitHub Stars](https://img.shields.io/github/stars/silofn523?style=for-the-badge&logo=github&color=yellow)
 </div>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silofn523&show_icons=true&theme=transparent&title_color=a074bd&text_color=7f7ac0&icon_color=d87f92)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silofn523&show_icons=true&title_color=FFFFFF&text_color=D3D3D3&icon_color=FFD700&bg_color=0D1117&border_color=44475a)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silofn523&layout=compact&theme=dark)
 
 
@@ -88,3 +89,4 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=silofn523&theme=react-dark" alt="Activity Graph" />
 </div>
+
