@@ -10,13 +10,12 @@
 <br>
 
 
-<h2></h2>
+<h2 align="center">"18 year old developer who is constantly working hard"</h2>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/870fb134-850a-49da-b398-b2330dfd7b62" width="10%" />
   <br>
   <pre style="background-color: #f5f5f5; padding: 15px; border-radius: 5px; width: 80%; text-align: left;">
     <code>
-"I am an 18-year-old student attending Gyeongbuk Software High School and studying backend development."
 - 📫 Email: silofn523@gmail.com
 - 🏫 School: Gyeongbuk Software High School (GBSW)
 - 🧨 Desired Job: Software Developer
