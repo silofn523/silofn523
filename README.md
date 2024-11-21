@@ -1,16 +1,11 @@
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/silofn523"
-    width="600"
-    height="120"
-  />
+  <img src="https://render.gitanimals.org/lines/silofn523" width="100%" alt="gitanimals"/>
 </a>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
   <p><em>“Building the future, one line of code at a time!”</em></p>
 </div>
-
 <br> <br>
 <div align="center" style="color: red;">
   <h1>"Work hard for your goal."</h1>
@@ -28,7 +23,7 @@
 </div>
 
 
-<h2 align="center">🌈 My Stack</h2>
+<h2 align="center">🚀 Tech Stack</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor=white&style=flat-rounded"/>
@@ -41,7 +36,7 @@
 </div>
 
 
-<h2 align="center">🔒 Stack Plan</h2>
+<h2 align="center">📘 Learning Goals</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white&style=flat-rounded"/>
@@ -52,7 +47,7 @@
 </div>
 
 
-<h2 align="center">🛠️ Tools</h2>
+<h2 align="center">🛠️ Tools I Use</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/IntelliJ-0e0a42?style=for-the-badge&logo=intellijidea&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=codecrafters&logoColor=white&style=flat-rounded"/>
@@ -79,6 +74,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=silofn523&show_icons=true&theme=transparent&title_color=a074bd&text_color=7f7ac0&icon_color=d87f92)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silofn523&layout=compact&title_color=a074bd&text_color=7f7ac0&icon_color=d87f92)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=silofn523&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
+<h2 align="center">🎉 Fun Activity</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=silofn523&theme=react-dark" alt="Activity Graph" />
 </div>
