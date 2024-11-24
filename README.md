@@ -76,10 +76,10 @@
   <br>
   <code>📞Contact</code>
   <br><br>
-  <a href="https://discord.com/channels/@silofn523" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=flat-rounded"/></a>
-  <a href="https://www.instagram.com/hhhnhnnhhnn__/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-rounded"/></a>
-  <a href="https://balanced-waxflower-a79.notion.site/Portfolio-f64030d90dc342239a6fd121eeaaeb4b" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&style=flat-rounded"/></a>
-  <a href="https://velog.io/@silofn523/posts" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white&style=flat-rounded"/></a>
+  <a href="https://discord.com/channels/@silofn523" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=flat-rounded"/></a>
+  <a href="https://www.instagram.com/hhhnhnnhhnn__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-rounded"/></a>
+  <a href="https://balanced-waxflower-a79.Notion.site/Portfolio-f64030d90dc342239a6fd121eeaaeb4b" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white&style=flat-rounded"/></a>
+  <a href="https://velog.io/@silofn523/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white&style=flat-rounded"/></a>
 </div>
 
 
