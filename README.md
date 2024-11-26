@@ -1,47 +1,11 @@
-
 <a href="https://github.com/devxb/gitanimals">
-  <spen><img
+  <img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=649158924903369626"
-    width="200"
-    height="120"
+    width="300"
+    height="140"
   />
-   <img
-    src="https://render.gitanimals.org/lines/silofn523?pet-id=649158926815974222"
-    width="200"
-    height="120"
-  />
-   <img
-    src="https://render.gitanimals.org/lines/silofn523?pet-id=649158924647521750"
-    width="200"
-    height="120"
-  />
-  <img
-    src="https://render.gitanimals.org/lines/silofn523?pet-id=649159021368164357"
-    width="200"
-    height="120"
-  />
-  <img
-    src="https://render.gitanimals.org/lines/silofn523?pet-id=649159004645483286"
-    width="200"
-    height="120"
-  />
-  <img
-    src="https://render.gitanimals.org/lines/silofn523?pet-id=648671493305392472"
-    width="200"
-    height="120"
-  />
-  <img
-    src="https://render.gitanimals.org/lines/silofn523?pet-id=649158926530756620"
-    width="200"
-    height="120"
-  />
-  <img
-    src="https://render.gitanimals.org/lines/silofn523?pet-id=646513521594725299"
-    width="200"
-    height="120"
-  />
-  </spen>
-</a>  
+</a>
+  
   
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
@@ -64,6 +28,15 @@
 - 🌱 Currently Learning: Back-end Development
     </code>
   </pre>
+  
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/silofn523?pet-id=649158925188591320"
+    width="600"
+    height="100"
+  />
+</a>
+  
 </div>
 
 
@@ -82,8 +55,15 @@
   <img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&style=flat-rounded"/>
 </div>
-<br>
-
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/silofn523?pet-id=649158926815974222"
+    width="600"
+    height="120"
+  />
+</a>
+  
+  
 <h2></h2>
 <div align="center">
    <img src="https://github.com/user-attachments/assets/1c08c325-c4bc-4ca7-9d1b-1a6e9ec28a15" width="10%" />
@@ -95,7 +75,14 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white&style=flat-rounded"/>
 </div>
-<br>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/silofn523?pet-id=649158924647521750"
+    width="600"
+    height="120"
+  />
+</a>
 
 <h2></h2>
 <div align="center">
@@ -108,9 +95,14 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=flat-rounded"/>
   <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white&style=flat-rounded"/>
 </div>
-<br>
-
-
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/silofn523?pet-id=649159021368164357"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <h2></h2>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/96e39907-a896-4426-96d9-39b935d9411d" width="10%" />
@@ -123,6 +115,13 @@
   <a href="https://velog.io/@silofn523/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white&style=flat-rounded"/></a>
 </div>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/silofn523?pet-id=649158925448637062"
+    width="600"
+    height="120"
+  />
+</a>
 
 <h2></h2>
 <div align="center">
@@ -141,6 +140,15 @@
 
 
 </div>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/silofn523?pet-id=649158926530756620"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <h2></h2>
 
 <div align="center">
@@ -151,7 +159,13 @@
     alt="Activity Graph" 
     width="80%" 
   />
-
-
 </div>
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/silofn523?pet-id=646513521594725299"
+    width="600"
+    height="120"
+  />
+</a>
+  
 
