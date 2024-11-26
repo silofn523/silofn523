@@ -25,7 +25,7 @@
     width="200"
     height="120"
   />
-<img
+  <img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=648671493305392472"
     width="200"
     height="120"
@@ -35,10 +35,10 @@
     width="200"
     height="120"
   />
-     <img
+  <img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=649158925964531253"
-    width="200"
-    height="120"
+    width="235"
+    height="130"
   />
   </spen>
 </a>  
