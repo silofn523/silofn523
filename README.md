@@ -2,16 +2,36 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=649158924903369626"
-    width="600"
+    width="300"
     height="120"
   />
    <img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=649158926815974222"
-    width="600"
+    width="300"
+    height="120"
+  />
+   <img
+    src="https://render.gitanimals.org/lines/silofn523?pet-id=649158924647521750"
+    width="300"
+    height="120"
+  />
+  <img
+    src="https://render.gitanimals.org/lines/silofn523?pet-id=649159021368164357"
+    width="300"
+    height="120"
+  />
+  <img
+    src="https://render.gitanimals.org/lines/silofn523?pet-id=649159004645483286"
+    width="300"
+    height="120"
+  />
+<img
+    src="https://render.gitanimals.org/lines/silofn523?pet-id=648671493305392472"
+    width="300"
     height="120"
   />
 </a>  
-
+  
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
   <p><em>“Building the future, one line of code at a time!”</em></p>
