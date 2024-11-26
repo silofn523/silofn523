@@ -32,7 +32,7 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=649158925188591320"
-    width="600"
+    width="400"
     height="100"
   />
 </a>
@@ -58,8 +58,8 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=649158926815974222"
-    width="600"
-    height="120"
+    width="400"
+    height="90"
   />
 </a>
   
@@ -79,8 +79,8 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=649158924647521750"
-    width="600"
-    height="120"
+    width="400"
+    height="100"
   />
 </a>
 
@@ -98,8 +98,8 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=649159021368164357"
-    width="600"
-    height="120"
+    width="300"
+    height="100"
   />
 </a>
   
@@ -118,8 +118,8 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=649158925448637062"
-    width="600"
-    height="120"
+    width="500"
+    height="100"
   />
 </a>
 
@@ -144,8 +144,8 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=649158926530756620"
-    width="600"
-    height="120"
+    width="500"
+    height="100"
   />
 </a>
   
@@ -163,8 +163,8 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=646513521594725299"
-    width="600"
-    height="120"
+    width="500"
+    height="100"
   />
 </a>
   
