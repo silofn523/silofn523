@@ -1,10 +1,16 @@
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/silofn523"
-  width="100%"
-  height="300"
-/>
-</a>
+  <img
+    src="https://render.gitanimals.org/lines/silofn523?pet-id=649158924903369626"
+    width="600"
+    height="120"
+  />
+   <img
+    src="https://render.gitanimals.org/lines/silofn523?pet-id=649158926815974222"
+    width="600"
+    height="120"
+  />
+</a>  
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
