@@ -2,32 +2,32 @@
 <a href="https://github.com/devxb/gitanimals">
   <spen><img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=649158924903369626"
-    width="300"
+    width="200"
     height="120"
   />
    <img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=649158926815974222"
-    width="300"
+    width="200"
     height="120"
   />
    <img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=649158924647521750"
-    width="300"
+    width="200"
     height="120"
   />
   <img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=649159021368164357"
-    width="300"
+    width="200"
     height="120"
   />
   <img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=649159004645483286"
-    width="300"
+    width="200"
     height="120"
   />
 <img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=648671493305392472"
-    width="300"
+    width="200"
     height="120"
   /></spen>
 </a>  
