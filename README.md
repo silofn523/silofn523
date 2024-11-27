@@ -117,7 +117,7 @@
   <br>
   <code>📞Contact</code>
   <br><br>
-  <a href="https://discord.com/channels/@silofn523" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=flat-rounded"/></a>
+  <a href="https://discord.com/channels/@silofn523" target="_blank"><img src="https://github.com/user-attachments/assets/13eee4e0-053e-4d5a-bf14-1c136465e83b" width="6%"/></a>
   <a href="https://www.instagram.com/hhhnhnnhhnn__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-rounded"/></a>
   <a href="https://balanced-waxflower-a79.notion.site/Portfolio-f64030d90dc342239a6fd121eeaaeb4b" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&style=flat-rounded"/></a>
   <a href="https://velog.io/@silofn523/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white&style=flat-rounded"/></a>
