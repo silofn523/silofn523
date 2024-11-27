@@ -2,21 +2,21 @@
   <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=649158924903369626"
-    width="400"
-    height="120"
+    width="300"
+    height="100"
   />
 </a>
   <a href="https://github.com/devxb/gitanimals" align="center">
     <img
       src="https://render.gitanimals.org/lines/silofn523?pet-id=649158925188591320"
-      width="400"
+      width="300"
       height="100"
     />
   </a>
   <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/lines/silofn523?pet-id=649158926815974222"
-      width="400"
+      width="300"
       height="90"
     />
   </a>
