@@ -101,15 +101,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="6%"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width="6%"/>
 </div>
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/lines/silofn523?pet-id=649159021368164357"
-      width="300"
-      height="100"
-    />
-  </a>
-</div>
   
 <h2></h2>
 <div align="center">
@@ -121,16 +112,6 @@
   <a href="https://www.instagram.com/hhhnhnnhhnn__/" target="_blank"><img src="https://github.com/user-attachments/assets/865a2033-f983-460d-90b4-53682a9404ee" width="6%"/></a>
   <a href="https://balanced-waxflower-a79.notion.site/Portfolio-f64030d90dc342239a6fd121eeaaeb4b" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="6%"/></a>
   <a href="https://velog.io/@silofn523/posts" target="_blank"><img src="https://github.com/user-attachments/assets/9bad0127-4fac-4176-9003-a1b1aea3d88d" width="6%"/></a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/lines/silofn523?pet-id=649158925448637062"
-      width="500"
-      height="100"
-    />
-  </a>
 </div>
 
 <h2></h2>
@@ -151,35 +132,6 @@
 
 </div>
 
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/lines/silofn523?pet-id=649158926530756620"
-      width="500"
-      height="100"
-    />
-  </a>
-</div>
-  
-<h2></h2>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4aa52fd2-4f65-4df0-afe1-e1ebc3b26aba" width="10%" />
-  <br>
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=silofn523&bg_color=0D1117&color=D3D3D3&line=4169E1&point=FFFFFF&area=true&hide_border=true" 
-    alt="Activity Graph" 
-    width="80%" 
-  />
-</div>
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/lines/silofn523?pet-id=646513521594725299"
-      width="500"
-      height="100"
-    />
-  </a>
-</div>
   
 
