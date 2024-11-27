@@ -2,10 +2,24 @@
   <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/silofn523?pet-id=649158924903369626"
-    width="600"
+    width="400"
     height="120"
   />
 </a>
+  <a href="https://github.com/devxb/gitanimals" align="center">
+    <img
+      src="https://render.gitanimals.org/lines/silofn523?pet-id=649158925188591320"
+      width="400"
+      height="100"
+    />
+  </a>
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/lines/silofn523?pet-id=649158926815974222"
+      width="400"
+      height="90"
+    />
+  </a>
 </div>  
   
 <div align="center">
@@ -29,16 +43,6 @@
 - 🌱 Currently Learning: Back-end Development
     </code>
   </pre>
-
-  <div align="center">
-    <a href="https://github.com/devxb/gitanimals" align="center">
-      <img
-        src="https://render.gitanimals.org/lines/silofn523?pet-id=649158925188591320"
-        width="400"
-        height="100"
-      />
-    </a>
-  </div>
 </div>
 
 
@@ -57,15 +61,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="6%" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="6%" />
 </div>
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/lines/silofn523?pet-id=649158926815974222"
-      width="400"
-      height="90"
-    />
-  </a>
-</div>
   
   
 <h2></h2>
@@ -80,15 +75,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="6%" />        
 </div>
 
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/lines/silofn523?pet-id=649158924647521750"
-      width="400"
-      height="100"
-    />
-  </a>
-</div>
 
 <h2></h2>
 <div align="center">
