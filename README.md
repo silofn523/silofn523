@@ -30,7 +30,7 @@
 <br><br>
 
 
-<h2 align="center">"18 year old developer who is constantly working hard"</h2>
+<h2 align="center">"19 year old developer who is constantly working hard"</h2>
 <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/870fb134-850a-49da-b398-b2330dfd7b62" width="10%" />
